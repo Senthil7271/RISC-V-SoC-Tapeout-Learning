@@ -18,7 +18,7 @@ yosys
 ```
 You should see output as below:
 
-![Yosys verification](/image1.png)
+![Yosys verification](week_0/image1.png)
 
 ---
 
