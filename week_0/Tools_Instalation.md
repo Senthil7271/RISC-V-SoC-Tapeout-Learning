@@ -1,10 +1,14 @@
-# Tool Installation Guide
+# 🛠️ Tool Installation Guide
 
-This guide shows how to install and verify the essential tools needed for RISC-V SoC tapeout work. For each tool, use the provided installation command and check the included screenshot to verify proper installation.
+Welcome! This colorful guide will help you install and verify the essential tools needed for your RISC-V SoC tapeout journey.  
+**Each tool section includes:**  
+- ✨ Installation command  
+- 📸 Verification screenshot  
 
 ---
 
-## 1. Yosys (Open SYnthesis Suite)
+<section>
+<h2>1. 🛤️ Yosys (Open SYnthesis Suite)</h2>
 
 **Install Command:**
 ```bash
@@ -12,84 +16,107 @@ sudo apt update
 sudo apt install yosys -y
 ```
 
+**Verify Installation:**  
 After installing, run:
 ```bash
 yosys
 ```
 You should see output as below:
 
-![Yosys verification](image1.png)
+<img src="image1.png" alt="Yosys verification" />
+
+</section>
 
 ---
 
-## 2. Icarus Verilog (iverilog)
+<section>
+<h2>2. ⚙️ Icarus Verilog (iverilog)</h2>
 
 **Install Command:**
 ```bash
 sudo apt install iverilog -y
 ```
 
+**Verify Installation:**  
 After installing, run:
 ```bash
 iverilog
 ```
 You should see output as below:
 
-![Icarus Verilog verification](image2.png)
+<img src="image2.png" alt="Icarus Verilog verification" />
+
+</section>
 
 ---
 
-## 3. GTKWave
+<section>
+<h2>3. 🌊 GTKWave</h2>
 
 **Install Command:**
 ```bash
 sudo apt install gtkwave -y
 ```
 
+**Verify Installation:**  
 After installing, run:
 ```bash
 gtkwave
 ```
 You should see the GTKWave GUI as below:
 
-![GTKWave verification](image3.png)
+<img src="image3.png" alt="GTKWave verification" />
+
+</section>
 
 ---
 
-## 4. Ngspice
+<section>
+<h2>4. ⚡ Ngspice</h2>
 
 **Install Command:**
 ```bash
 sudo apt install ngspice -y
 ```
 
+**Verify Installation:**  
 After installing, run:
 ```bash
 ngspice
 ```
 You should see output as below:
 
-![Ngspice verification](image4.png)
+<img src="image4.png" alt="Ngspice verification" />
+
+</section>
 
 ---
 
-## 5. Magic VLSI
+<section>
+<h2>5. 🧙 Magic VLSI</h2>
 
 **Install Command:**
 ```bash
 sudo apt install magic -y
 ```
 
+**Verify Installation:**  
 After installing, run:
 ```bash
 magic
 ```
 You should see the Magic VLSI GUI as shown below:
 
-![Magic VLSI verification](image5.png)
+<img src="image5.png" alt="Magic VLSI verification" />
+
+</section>
 
 ---
 
-## Summary
+## 🌟 Summary
 
-Make sure each tool launches and displays output similar to the screenshots. These open-source tools are essential for digital and analog design, simulation, synthesis, and layout in your RISC-V SoC projects.
+✅ Make sure each tool launches and displays output similar to the screenshots above.  
+🌱 These open-source tools are essential for digital and analog design, simulation, synthesis, and layout in your RISC-V SoC projects.  
+🎨 **Enjoy your colorful journey into VLSI design!**
+
+---
