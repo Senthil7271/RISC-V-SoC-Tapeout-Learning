@@ -35,7 +35,7 @@ iverilog
 ```
 You should see output as below:
 
-![Icarus Verilog verification](images/image2.png)
+![Icarus Verilog verification](image2.png)
 
 ---
 
@@ -52,7 +52,7 @@ gtkwave
 ```
 You should see the GTKWave GUI as below:
 
-![GTKWave verification](images/image3.png)
+![GTKWave verification](image3.png)
 
 ---
 
@@ -69,7 +69,7 @@ ngspice
 ```
 You should see output as below:
 
-![Ngspice verification](images/image4.png)
+![Ngspice verification](image4.png)
 
 ---
 
@@ -86,7 +86,7 @@ magic
 ```
 You should see the Magic VLSI GUI as shown below:
 
-![Magic VLSI verification](images/image5.png)
+![Magic VLSI verification](image5.png)
 
 ---
 
